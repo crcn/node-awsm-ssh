@@ -1,0 +1,22 @@
+{
+  "name": "awsm-ssh",
+  "version": "0.0.1",
+  "description": "node-awsm-ssh =============",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crcn/node-awsm-ssh.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/crcn/node-awsm-ssh/issues"
+  },
+  "dependencies": {
+    "outcome": "0.0.18",
+    "sprintf": "~0.1.3"
+  }
+}
