@@ -1,6 +1,6 @@
 {
   "name": "awsm-ssh",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "node-awsm-ssh =============",
   "main": "./lib/index.js",
   "scripts": {
@@ -17,6 +17,8 @@
   },
   "dependencies": {
     "outcome": "0.0.18",
-    "sprintf": "~0.1.3"
+    "sprintf": "~0.1.3",
+    "async": "~0.2.10",
+    "colors": "~0.6.2"
   }
 }
