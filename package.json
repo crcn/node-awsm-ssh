@@ -1,6 +1,6 @@
 {
   "name": "awsm-ssh",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "node-awsm-ssh =============",
   "main": "./lib/index.js",
   "scripts": {
